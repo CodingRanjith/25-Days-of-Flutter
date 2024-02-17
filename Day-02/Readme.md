@@ -91,7 +91,7 @@ Congratulations! You've successfully set up Flutter on your machine and created 
 
 🚀 Stay tuned for Day 3 where we'll dive deeper into Flutter widgets and layouts!
 
-[Day 3 >>]()
+[Day 3 >>](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
