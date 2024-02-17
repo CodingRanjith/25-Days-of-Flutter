@@ -29,6 +29,7 @@
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
 | Day - 01 | [Introduction to Flutter, setup development environment (Flutter SDK, IDE).](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-01)  |
 | Day - 02 | [Flutter Installation and Setup](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-02)  |
+| Day - 03 | [Flutter Widgets, Layouts, Gestures, State Management, IDE](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)  |
 
 
 
