@@ -162,7 +162,7 @@ flutter upgrade
 This will upgrade your Flutter SDK to the latest stable release.
 
 
-[Day 2 >>]()
+[Day 2 >>](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-02)
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
