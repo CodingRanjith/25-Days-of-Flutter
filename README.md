@@ -31,6 +31,7 @@
 | Day - 02 | [Flutter Installation and Setup](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-02)  |
 | Day - 03 | [Flutter Widgets, Layouts, Gestures, State Management, IDE](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)  |
 | Day - 04 | [Exploring Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-04)  |
+| Day - 05 | [Enhancing UI with Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-05)  |
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
 
