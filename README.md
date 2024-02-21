@@ -32,6 +32,8 @@
 | Day - 03 | [Flutter Widgets, Layouts, Gestures, State Management, IDE](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)  |
 | Day - 04 | [Exploring Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-04)  |
 | Day - 05 | [Enhancing UI with Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-05)  |
+| Day - 06 | [Advanced Flutter Widgets and Features](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-06)  |
+
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
 
