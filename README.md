@@ -25,19 +25,24 @@
 
 [Day 1 >>](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-01)
 
-| # Day |                                                           Topics                                                            |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| Day - 01 | [Introduction to Flutter, setup development environment (Flutter SDK, IDE).](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-01)  |
-| Day - 02 | [Flutter Installation and Setup](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-02)  |
-| Day - 03 | [Flutter Widgets, Layouts, Gestures, State Management, IDE](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)  |
-| Day - 04 | [Exploring Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-04)  |
-| Day - 05 | [Enhancing UI with Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-05)  |
-| Day - 06 | [Advanced Flutter Widgets and Features](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-06)  |
-| Day - 07 | [Exploring Advanced Flutter Topics](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-07)  |
-| Day - 08 | [Flutter State Management, HTTP Requests, Navigation, Animations, Plugins, Testing, Debugging, Performance Optimization, Internationalization, App Deployment](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-08) |
-| Day - 09 | [Flutter Form Handling, Validation, Error Handling](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-09)  |
-| Day - 10 | [Flutter Networking, SQLite Database, Firebase Integration](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-10)  |
+Here's the updated table for Day 11 and Day 12:
 
+| # Day   | Topics                                                                                                                                                                             |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day - 01 | [Introduction to Flutter, setup development environment (Flutter SDK, IDE).](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-01)                                                                                         |
+| Day - 02 | [Flutter Installation and Setup](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-02)                                                                                                                                         |
+| Day - 03 | [Flutter Widgets, Layouts, Gestures, State Management, IDE](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-03)                                                                                                             |
+| Day - 04 | [Exploring Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-04)                                                                                                                                     |
+| Day - 05 | [Enhancing UI with Essential Flutter Widgets](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-05)                                                                                                                            |
+| Day - 06 | [Advanced Flutter Widgets and Features](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-06)                                                                                                                                  |
+| Day - 07 | [Exploring Advanced Flutter Topics](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-07)                                                                                                                                      |
+| Day - 08 | [Flutter State Management, HTTP Requests, Navigation, Animations, Plugins, Testing, Debugging, Performance Optimization, Internationalization, App Deployment](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-08) |
+| Day - 09 | [Flutter Form Handling, Validation, Error Handling](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-09)                                                                                                                     |
+| Day - 10 | [Flutter Networking, SQLite Database, Firebase Integration](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-10)                                                                                                             |
+| Day - 11 | [Flutter Custom Paint, Gesture Detection, Form Validation, Responsive Design, Advanced Animation, Local Notifications, Firebase Integration, Testing and Debugging](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-11) |
+| Day - 12 | [Flutter Advanced Topics](https://github.com/CodingRanjith/25-Days-of-Flutter/tree/main/Day-12)                                                                                                                                               |
+
+Feel free to customize it further if needed!
 
 
 
